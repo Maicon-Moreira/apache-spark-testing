@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Maicon",
+    "surName": "Moreira",
+    "age": 23,
+    "contacts": {
+      "email": "maicon.moreira@gmail.com",
+      "phone": "4798769876"
+    }
+  },
+  {
+    "name": "João",
+    "surName": "Silva",
+    "age": 25,
+    "contacts": {
+      "email": "joao.silva@gmail.com",
+      "phone": "4797531987"
+    }
+  },
+  {
+    "name": "Maria",
+    "surName": "Santos",
+    "age": 27,
+    "contacts": {
+      "email": "maria.santos@gmail.com",
+      "phone": "4798765432"
+    }
+  }
+]
