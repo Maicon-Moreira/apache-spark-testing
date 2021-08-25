@@ -1,4 +1,4 @@
-# sql-testing
+# apache-spark-testing
 
 <br>
 <img src="./assets/readme_image.svg" alt="Readme Image" width="30%" style="margin: 1em;">
